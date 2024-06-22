@@ -1,80 +1,20 @@
-# Raghav Jaiswal: Full Stack Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i am Raghav Jaiswal
+======================================================================================================================================
+<h4>A Full-Stack developer | MERN Stack</h4>
 
----
+- 🔭 I am pursuing my passion for technology by doing a B.Tech 
+- 🌱 I’m Interested to work on Web 3.0
+- 👯 I’m making the world better by APIs
+- 💬 Ask me about Technology
+- 📫 How to reach me: raghavjaiswal0000@gmail.com
 
-![image-removebg-preview (25).png](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/image-removebg-preview_(25).png)
 
-# Hi! I’m Raghav Jaiswal and I’m a Full Stack Web Developer.
 
-I focus on building dynamic and interactive websites and applications.
 
-I am currently pursuing a B.Tech 🎓 at KIIT University, Bhubaneswar 📍, where I am constantly expanding my skill set and embracing new learning opportunities every day.
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  </a> </p>
 
-[Get in Touch](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/Get%20in%20Touch%207020f686c4ea4df1ac4e48cabccb139e.md)
+<h3 align="left">Frameworks and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  </p>
 
-[Blogs](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/Blogs%205fada277ca654292b29029d2a12e1a46.md)
 
-[Resume](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/Resume%204e6df63fa0104892b24099eabffe2be1.md)
-
-<aside>
-🎞️ Some Work for me..?
-
----
-
-[Send me an email 👇](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e.md)
-
-DM me on Instagram🔗: [@raghav_jaiswal709](https://www.instagram.com/raghav_jaiswal709/)
-
-### [raghavjaiswal0000@gmail.com](mailto:raghavjaiswal0000@gmail.com) 📨
-
-</aside>
-
-$$
-\begin{aligned}\huge
-TechStack
-\end{aligned}
-$$
-
-![image-removebg-preview (22).png](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/image-removebg-preview_(22).png)
-
----
-
-# PROJECTS
-
-[PROJECTS](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/PROJECTS%207804a04df87c4ecda6f43dcc4e275f79.csv)
-
----
-
-[PROJECTS (1)](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/PROJECTS%20(1)%20be9a316ffa454c3b9586d93a339ca80d.csv)
-
----
-
-# Certificates📜
-
-[Untitled Database](Raghav%20Jaiswal%20Full%20Stack%20Developer%207d9b3709cec845968fb49d22d01cb02e/Untitled%20Database%20873c842d1ff24f0bab61639b173b3b75.csv)
-
-# Profiles🙍‍♂️
-
-### GitHub Profile
-
-[raghavjaiswal709 - Overview](https://github.com/raghavjaiswal709)
-
-### Instagram
-
-[Instagram (@raghav_jaiswal709)](https://www.instagram.com/raghav_jaiswal709/)
-
----
-
-$$
-\begin{aligned}\huge {That's~all~ Folks}\end{aligned}
-$$
-
----
-
-$$
-\begin{aligned}\huge {"Learning,~ Living,~ and~ Leveling Up. "}\end{aligned}
-$$
-
----
-
-# 💖
